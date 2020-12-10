@@ -197,8 +197,8 @@ public class CourseViewer extends JFrame implements ActionListener,
 				
 			}
 		}
-		}
 	}
+}
 
 	/**
 	 * Manages the creation of a new course. Called when "New Course" button is pressed.
