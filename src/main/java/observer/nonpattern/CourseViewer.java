@@ -155,7 +155,6 @@ public class CourseViewer extends JFrame implements ActionListener,
 	}
 	*/
 	
-	
 	public void paint(Graphics g) {
 		super.paint(g);
 		int radius = 100;
