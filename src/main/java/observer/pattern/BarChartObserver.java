@@ -33,7 +33,6 @@ public class BarChartObserver extends JPanel implements Observer {
 		this.setBackground(Color.white);
 	}
 
-
 	public void paint(Graphics g) {
 		super.paint(g);
 		int radius = 100;
